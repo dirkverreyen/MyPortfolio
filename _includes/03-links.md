@@ -1,2 +1,2 @@
- Link to my website [Verreyen.be](http://verreyen.be)
+ Link to my website [verreyen.be](http://verreyen.be)
 
