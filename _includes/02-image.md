@@ -1,1 +1,1 @@
-! [ME, drawn by myself] (https://octodex.github.com/images/yaktocat.png)
+![Spidercat](https://octodex.github.com/images/spidertocat.png)
